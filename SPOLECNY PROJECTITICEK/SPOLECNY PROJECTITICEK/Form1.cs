@@ -31,7 +31,7 @@ namespace SPOLECNY_PROJECTITICEK
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(checkBox1.Checked)
+            if (mocninaBox.Checked)
             {
                 try
                 {
@@ -43,7 +43,7 @@ namespace SPOLECNY_PROJECTITICEK
 
                     if (cislo2 == 0)
                     {
-                        label6.Text = "vysledek A na N-tou je: 1";
+                        mocninaLabel.Text = "vysledek A na N-tou je: 1";
                     }
                     else
                     {
@@ -53,7 +53,7 @@ namespace SPOLECNY_PROJECTITICEK
                             vysledek = vysledek * cislo1;
                             cislo2--;
                         }
-                        label6.Text = "vysledek A na N-tou je:" + vysledek;
+                        mocninaLabel.Text = "vysledek A na N-tou je:" + vysledek;
                     }
 
                 }
@@ -62,27 +62,28 @@ namespace SPOLECNY_PROJECTITICEK
                     MessageBox.Show("neco se pokazilo");
 
                 }
+            }
             else
             {
-                label5.Text = "";
+                mocninaLabel.Text = "";
             }
-            if(checkBox2.Checked)
+            if (faktorialBox.Checked)
             {
                 try
                 {
                     cislo2 = int.Parse(textBox2.Text);
-                    int vysledečiček = faktorial();
+                    int vysledecicek = faktorial();
 
-                    label5.Text = "vysledek N! je:" + vysledečiček;
+                    faktorialLabel.Text = "vysledek N! je:" + vysledecicek;
                 }
                 catch (Exception)
                 {
                     MessageBox.Show("neco se pokazilo more");
                 }
-            }   
+            }
             else
             {
-                label6.Text = "";
+                faktorialLabel.Text = "";
             }
         }
     }

@@ -1,0 +1,20 @@
+C:\Users\ruzickat.04\source\repos\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\bin\Debug\SPOLECNY PROJECTITICEK.exe.config
+C:\Users\ruzickat.04\source\repos\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\bin\Debug\SPOLECNY PROJECTITICEK.exe
+C:\Users\ruzickat.04\source\repos\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\bin\Debug\SPOLECNY PROJECTITICEK.pdb
+C:\Users\ruzickat.04\source\repos\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY PROJECTITICEK.csprojAssemblyReference.cache
+C:\Users\ruzickat.04\source\repos\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY_PROJECTITICEK.Form1.resources
+C:\Users\ruzickat.04\source\repos\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY_PROJECTITICEK.Properties.Resources.resources
+C:\Users\ruzickat.04\source\repos\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY PROJECTITICEK.csproj.GenerateResource.cache
+C:\Users\ruzickat.04\source\repos\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY PROJECTITICEK.csproj.CoreCompileInputs.cache
+C:\Users\ruzickat.04\source\repos\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY PROJECTITICEK.exe
+C:\Users\ruzickat.04\source\repos\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY PROJECTITICEK.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\_-_-_-_-_-_-_-\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY PROJECTITICEK.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\_-_-_-_-_-_-_-\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY_PROJECTITICEK.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\_-_-_-_-_-_-_-\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY_PROJECTITICEK.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\_-_-_-_-_-_-_-\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY PROJECTITICEK.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\_-_-_-_-_-_-_-\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY PROJECTITICEK.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\_-_-_-_-_-_-_-\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY PROJECTITICEK.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\_-_-_-_-_-_-_-\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\obj\Debug\SPOLECNY PROJECTITICEK.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\_-_-_-_-_-_-_-\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\bin\Debug\SPOLECNY PROJECTITICEK.exe.config
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\_-_-_-_-_-_-_-\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\bin\Debug\SPOLECNY PROJECTITICEK.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\_-_-_-_-_-_-_-\SPOLECNY PROJECTITICEK\SPOLECNY PROJECTITICEK\bin\Debug\SPOLECNY PROJECTITICEK.pdb
